@@ -1,0 +1,6 @@
+C:\Users\gokce\Desktop\Getit\Getit\bin\Debug\Getit.exe.config
+C:\Users\gokce\Desktop\Getit\Getit\obj\Debug\Getit.csprojResolveAssemblyReference.cache
+C:\Users\gokce\Desktop\Getit\Getit\bin\Debug\Getit.exe
+C:\Users\gokce\Desktop\Getit\Getit\bin\Debug\Getit.pdb
+C:\Users\gokce\Desktop\Getit\Getit\obj\Debug\Getit.exe
+C:\Users\gokce\Desktop\Getit\Getit\obj\Debug\Getit.pdb
